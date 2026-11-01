@@ -1,0 +1,15 @@
+{
+  "name": "CFOP Master",
+  "short_name": "CFOP Master",
+  "description": "Entraînement au Rubik's Cube 3×3×3 (méthode CFOP), hors ligne.",
+  "lang": "fr",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#F5F5F3",
+  "theme_color": "#2F6FED",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml" },
+    { "src": "icon-256.png", "sizes": "256x256", "type": "image/png" }
+  ]
+}
